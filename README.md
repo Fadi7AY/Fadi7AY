@@ -6,7 +6,7 @@ I'm a passionate DevOps enthusiast with hands-on experience building CI/CD pipel
 ---
 
 ## 🚀 Projects
-### [WOG 3.0](https://github.com/Fadi7AY/wog_3.0)
+### [World Of Games (WOG)](https://github.com/Fadi7AY/wog_3.0)
 A web-based platform featuring a collection of mini-games focused on logic, strategy, and puzzles. Designed for user engagement and scalability, the project showcases clean code architecture and modular design.
 Highlights:
 
@@ -20,8 +20,7 @@ Includes multiple interactive games with dynamic interfaces
 
 
 
-### [Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
-A DevOps tool to manage Git hooks (pre-commit, prepare-commit-msg, etc.) for improved code hygiene and team workflows.
+
 ### [Telegram Bot](https://github.com/Fadi7AY/Telegram_bot)
 A Python-based Telegram bot designed to interact with users and demonstrate API integration and bot automation.
 Features:
@@ -36,6 +35,9 @@ Structured with modular Python functions for clarity and extensibility
 
 Built using python-telegram-bot library and GitHub REST API
 
+
+### [Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
+A DevOps tool to manage Git hooks (pre-commit, prepare-commit-msg, etc.) for improved code hygiene and team workflows.
 
 ---
 
