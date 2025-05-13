@@ -4,6 +4,7 @@
 
 I'm a passionate DevOps enthusiast with hands-on experience building CI/CD pipelines, automating infrastructure, and creating real-world projects using tools like Docker, Kubernetes, Jenkins, and Flask. I'm currently pursuing a B.Sc. in Computer Science at The Open University of Israel .
 ---
+---
 
 ## 🚀 Projects
 ### [World Of Games (WOG)](https://github.com/Fadi7AY/wog_3.0)
