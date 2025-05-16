@@ -39,7 +39,7 @@ Built using python-telegram-bot library and GitHub REST API
 
 
 
-### ❌⭕ [Tic Tac Toe Game in C (Console-Based with AI Opponent)](https://github.com/Fadi7AY/Tic-Tac-Toe-C)
+### ❌⭕ [Tic Tac Toe Game in C (Console-Based with AI Opponent)](https://github.com/Fadi7AY/TicTacToe)
 
 A fully interactive and modular Tic Tac Toe game built in C, supporting both multiplayer and single-player modes with multiple AI difficulty levels.
 
