@@ -36,6 +36,31 @@ Structured with modular Python functions for clarity and extensibility
 
 Built using python-telegram-bot library and GitHub REST API
 
+### ❌⭕ Tic Tac Toe Game in C (Console-Based with AI Opponent)
+
+A fully interactive and modular Tic Tac Toe game built in C, supporting both multiplayer and single-player modes with multiple AI difficulty levels.
+
+## 🎮 Features
+
+- **Game Modes:**
+  - Player vs Player
+  - Player vs AI (Easy / Medium / Hard)
+
+- **AI Difficulty Levels:**
+  - **Easy:** Random move selection
+  - **Medium:** Rule-based logic (blocking & winning)
+  - **Hard:** Unbeatable AI using the **Minimax algorithm** with recursion and depth tracking
+
+- **Interface & Usability:**
+  - Numbered grid layout (1–9) for intuitive input
+  - Robust input validation
+  - Clean UI and structured game loop
+
+- **Programming Techniques:**
+  - Modular functions for board rendering, input handling, and game state evaluation
+  - Clear separation of logic for scalability and maintainability
+  - Conditional logic flow for detecting wins, draws, and valid moves
+
 
 ### 🛠️[Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
 A DevOps tool to manage Git hooks (pre-commit, prepare-commit-msg, etc.) for improved code hygiene and team workflows.
