@@ -67,7 +67,7 @@ A fully interactive and modular Tic Tac Toe game built in C, supporting both mul
 
 
 
-### 🛠️[Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
+### 🪝[Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
 A DevOps tool to manage Git hooks (pre-commit, prepare-commit-msg, etc.) for improved code hygiene and team workflows.
 
 ---
