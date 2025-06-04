@@ -19,7 +19,14 @@ Emphasized testability, performance, and deployment readiness
 
 Includes multiple interactive games with dynamic interfaces
 
-
+### 🌐 [Flask to Discord Webhook App](https://github.com/Fadi7AY/flask-to-discord)  
+A Flask-based web application that captures messages via a web form and sends them to a Discord channel using webhooks.  
+**Features:**
+- SQLite database for storing messages with timestamps  
+- Simple, responsive HTML form for user input  
+- Integration with Discord via `discord-webhook`  
+- Environment variable configuration for secure webhook usage  
+- Timestamp tracking and message retrieval with Flask routes  
 
 
 ### 🤖[Telegram Bot](https://github.com/Fadi7AY/Telegram_bot)
