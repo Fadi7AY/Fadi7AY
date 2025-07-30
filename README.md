@@ -70,11 +70,22 @@ A fully interactive and modular Tic Tac Toe game built in C, supporting both mul
   - Modular functions for board rendering, input handling, and game state evaluation
   - Clear separation of logic for scalability and maintainability
   - Conditional logic flow for detecting wins, draws, and valid moves
+ 
+
+  
+
+### ☁️ [DevOps Student Assignment – AWS IaC & Lambda Automation](https://github.com/Fadi7AY/DevOps_Assignment)
+Built a serverless AWS application using Terraform.  
+**Highlights:**
+- Provisioned S3, SNS, IAM, and Python Lambda to list S3 objects and email results  
+- Integrated GitHub Actions for CI/CD with manual `workflow_dispatch` trigger  
+- Uploaded local files to S3 during deployment  
+- Included CLI script to manually invoke the Lambda function  
 
 
 
 
-### 🪝[Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
+### 🔧[Git Hooks Automation](https://github.com/Fadi7AY/GitHooksProj)
 A DevOps tool to manage Git hooks (pre-commit, prepare-commit-msg, etc.) for improved code hygiene and team workflows.
 
 ---
