@@ -33,7 +33,8 @@ Implemented ArgoCD GitOps automation for continuous deployment from a dedicated 
 Integrated GitHub Actions CI/CD pipelines pushing Docker images to Amazon ECR
 
 Configured NGINX Ingress Controller for traffic routing and Prometheus/Grafana for observability
-👉 GitOps Repository
+
+👉 [GitOps Repository](https://github.com/Fadi7AY/retail-store-gitops)
 
 
 ### 🌐 [Flask to Discord Webhook App](https://github.com/Fadi7AY/flask-to-discord)  
