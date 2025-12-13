@@ -19,6 +19,22 @@ Emphasized testability, performance, and deployment readiness
 
 Includes multiple interactive games with dynamic interfaces
 
+### 🏬 [Retail Store Sample App – Kubernetes kubeadm & GitOps Project](https://github.com/Fadi7AY/retail-store-sample-app)
+
+A microservices-based retail store application deployed on a multi-node kubeadm cluster, integrating complete DevOps and GitOps workflows.
+Highlights:
+
+Built and deployed 5 microservices (UI, Catalog, Cart, Orders, Checkout) using Helm charts
+
+Installed and configured dependencies: PostgreSQL, Redis, RabbitMQ, and DynamoDB Local
+
+Implemented ArgoCD GitOps automation for continuous deployment from a dedicated GitOps repo
+
+Integrated GitHub Actions CI/CD pipelines pushing Docker images to Amazon ECR
+
+Configured NGINX Ingress Controller for traffic routing and Prometheus/Grafana for observability
+👉 GitOps Repository
+
 
 ### 🌐 [Flask to Discord Webhook App](https://github.com/Fadi7AY/flask-to-discord)  
 A Flask-based web application that captures messages via a web form and sends them to a Discord channel using webhooks.  
