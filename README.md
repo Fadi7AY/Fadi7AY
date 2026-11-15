@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadiabuyaseen/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-20232A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadeyaseen3@gmail.com)
+
+**Email:** [fadeyaseen3@gmail.com](mailto:fadeyaseen3@gmail.com) · **Phone / WhatsApp:** [+972-50-283-1606](tel:+972502831606)
 [![Portfolio](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadi7AY?tab=repositories)
 
 </div>
@@ -138,7 +140,10 @@ A Jenkins pipeline running on a dedicated build agent, with SCM polling and arch
 
 I'm always interested in thoughtful conversations about **DevOps, cloud platforms, infrastructure automation, and software engineering**.
 
-[**Connect on LinkedIn**](https://www.linkedin.com/in/fadiabuyaseen/) · [**Browse my repositories**](https://github.com/Fadi7AY?tab=repositories) · [**Email me**](mailto:fadeyaseen3@gmail.com)
+[**Connect on LinkedIn**](https://www.linkedin.com/in/fadiabuyaseen/) · [**Browse my repositories**](https://github.com/Fadi7AY?tab=repositories)
+
+📧 **Email:** [fadeyaseen3@gmail.com](mailto:fadeyaseen3@gmail.com)  
+📱 **Phone / WhatsApp:** [+972-50-283-1606](tel:+972502831606)
 
 <sub>Build it. Automate it. Improve it. ⚡</sub>
 
