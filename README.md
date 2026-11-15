@@ -8,9 +8,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadiabuyaseen/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-20232A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadeyaseen3@gmail.com)
-
-**Email:** [fadeyaseen3@gmail.com](mailto:fadeyaseen3@gmail.com) · **Phone / WhatsApp:** [+972-50-283-1606](tel:+972502831606)
 [![Portfolio](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadi7AY?tab=repositories)
+
+<br>
+
+📧 **Email:** [fadeyaseen3@gmail.com](mailto:fadeyaseen3@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; 📱 **Phone / WhatsApp:** [+972-50-283-1606](tel:+972502831606)
 
 </div>
 
