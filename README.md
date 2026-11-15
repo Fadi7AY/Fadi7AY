@@ -20,7 +20,7 @@
 
 ### ✦ About me
 
-I'm a **Computer Science student at The Open University of Israel**, focused on **DevOps, cloud infrastructure, automation, and backend engineering**.
+I'm a **Computer Science student at The Hebrew University of Jerusalem (HUJI)**, focused on **DevOps, cloud infrastructure, automation, and backend engineering**.
 
 My projects span multi-node Kubernetes clusters, GitOps delivery, CI/CD pipelines, AWS infrastructure as code, and Python applications. I enjoy going beyond tutorials: building, breaking, debugging, and documenting systems end to end.
 
